@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=484848&lines=Senior+Frontend+Developer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF7C89&vCenter=true&lines=Senior+Software+Developer)](https://git.io/typing-svg)  
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/4rhkic75en8arbjkpez8fhryk?si=GpGicT3rQZ6bLgw36uET9A) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/js2me)
 
 ### Hi there 👋
