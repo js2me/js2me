@@ -1,1 +1,1 @@
-# Frontend Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=1000&color=767676&multiline=true&repeat=false&width=200&lines=Frontend+Developer;from+Russia+with+love)](https://git.io/typing-svg)
